@@ -8,7 +8,9 @@
 
 ## インストール
 
-readingtime.inc.php を PukiWiki の plugin ディレクトリに配置してください。
+下記GitHubページからダウンロードした readingtime.inc.php を PukiWiki の plugin ディレクトリに配置してください。
+
+[https://github.com/ikamonster/pukiwiki-readingtime](https://github.com/ikamonster/pukiwiki-readingtime)
 
 ## 使い方
 
